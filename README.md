@@ -1,7 +1,7 @@
 # C-to-MMIX-compiler
 
 TODO
-- Compile mathematic statements
+- Compile mathematic statements (Partially done)
 - Compile Assignment statements
 - Compile Logic statements
 - Compile Loops
